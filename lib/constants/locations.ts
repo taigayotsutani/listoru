@@ -20,62 +20,62 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009023,
       "location_name": "Abashiri,Hokkaido,Japan",
-      "label": "Abashiri"
+      "label": "網走市"
     },
     {
       "location_code": 1009024,
       "location_name": "Akkeshi,Hokkaido,Japan",
-      "label": "Akkeshi"
+      "label": "厚岸町"
     },
     {
       "location_code": 1009025,
       "location_name": "Asahikawa,Hokkaido,Japan",
-      "label": "Asahikawa"
+      "label": "旭川市"
     },
     {
       "location_code": 1009026,
       "location_name": "Ashoro,Hokkaido,Japan",
-      "label": "Ashoro"
+      "label": "足寄町"
     },
     {
       "location_code": 1009027,
       "location_name": "Ashibetsu,Hokkaido,Japan",
-      "label": "Ashibetsu"
+      "label": "芦別市"
     },
     {
       "location_code": 1009028,
       "location_name": "Bibai,Hokkaido,Japan",
-      "label": "Bibai"
+      "label": "美唄市"
     },
     {
       "location_code": 1009029,
       "location_name": "Bifuka,Hokkaido,Japan",
-      "label": "Bifuka"
+      "label": "美深町"
     },
     {
       "location_code": 1009030,
       "location_name": "Bihoro,Hokkaido,Japan",
-      "label": "Bihoro"
+      "label": "美幌町"
     },
     {
       "location_code": 1009031,
       "location_name": "Chitose,Hokkaido,Japan",
-      "label": "Chitose"
+      "label": "千歳市"
     },
     {
       "location_code": 1009032,
       "location_name": "Date,Hokkaido,Japan",
-      "label": "Date"
+      "label": "伊達市"
     },
     {
       "location_code": 1009033,
       "location_name": "Ebetsu,Hokkaido,Japan",
-      "label": "Ebetsu"
+      "label": "江別市"
     },
     {
       "location_code": 1009034,
       "location_name": "Engaru,Hokkaido,Japan",
-      "label": "Engaru"
+      "label": "遠軽町"
     },
     {
       "location_code": 1009035,
@@ -90,7 +90,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009037,
       "location_name": "Fukagawa,Hokkaido,Japan",
-      "label": "Fukagawa"
+      "label": "深川市"
     },
     {
       "location_code": 1009038,
@@ -110,7 +110,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009041,
       "location_name": "Hakodate,Hokkaido,Japan",
-      "label": "Hakodate"
+      "label": "函館市"
     },
     {
       "location_code": 1009043,
@@ -125,7 +125,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009045,
       "location_name": "Iwamizawa,Hokkaido,Japan",
-      "label": "Iwamizawa"
+      "label": "岩見沢市"
     },
     {
       "location_code": 1009046,
@@ -145,7 +145,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009049,
       "location_name": "Kitami,Hokkaido,Japan",
-      "label": "Kitami"
+      "label": "北見市"
     },
     {
       "location_code": 1009050,
@@ -165,7 +165,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009054,
       "location_name": "Kushiro,Hokkaido,Japan",
-      "label": "Kushiro"
+      "label": "釧路市"
     },
     {
       "location_code": 1009055,
@@ -195,7 +195,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009060,
       "location_name": "Muroran,Hokkaido,Japan",
-      "label": "Muroran"
+      "label": "室蘭市"
     },
     {
       "location_code": 1009061,
@@ -205,7 +205,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009062,
       "location_name": "Nakashibetsu,Hokkaido,Japan",
-      "label": "Nakashibetsu"
+      "label": "中標津町"
     },
     {
       "location_code": 1009063,
@@ -225,7 +225,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009066,
       "location_name": "Nemuro,Hokkaido,Japan",
-      "label": "Nemuro"
+      "label": "根室市"
     },
     {
       "location_code": 1009067,
@@ -235,17 +235,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009068,
       "location_name": "Noboribetsu,Hokkaido,Japan",
-      "label": "Noboribetsu"
+      "label": "登別市"
     },
     {
       "location_code": 1009069,
       "location_name": "Numata,Hokkaido,Japan",
-      "label": "Numata"
+      "label": "沼田市"
     },
     {
       "location_code": 1009070,
       "location_name": "Obihiro,Hokkaido,Japan",
-      "label": "Obihiro"
+      "label": "帯広市"
     },
     {
       "location_code": 1009071,
@@ -255,7 +255,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009073,
       "location_name": "Otaru,Hokkaido,Japan",
-      "label": "Otaru"
+      "label": "小樽市"
     },
     {
       "location_code": 1009074,
@@ -265,12 +265,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009075,
       "location_name": "Rumoi,Hokkaido,Japan",
-      "label": "Rumoi"
+      "label": "留萌市"
     },
     {
       "location_code": 1009076,
       "location_name": "Sapporo,Hokkaido,Japan",
-      "label": "Sapporo"
+      "label": "札幌市"
     },
     {
       "location_code": 1009077,
@@ -295,12 +295,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009082,
       "location_name": "Shibetsu,Hokkaido,Japan",
-      "label": "Shibetsu"
+      "label": "士別市"
     },
     {
       "location_code": 1009083,
       "location_name": "Shikaoi,Hokkaido,Japan",
-      "label": "Shikaoi"
+      "label": "鹿追町"
     },
     {
       "location_code": 1009084,
@@ -320,7 +320,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009088,
       "location_name": "Sunagawa,Hokkaido,Japan",
-      "label": "Sunagawa"
+      "label": "砂川市"
     },
     {
       "location_code": 1009089,
@@ -330,7 +330,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009090,
       "location_name": "Takikawa,Hokkaido,Japan",
-      "label": "Takikawa"
+      "label": "滝川市"
     },
     {
       "location_code": 1009091,
@@ -340,7 +340,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009092,
       "location_name": "Teshikaga,Hokkaido,Japan",
-      "label": "Teshikaga"
+      "label": "弟子屈町"
     },
     {
       "location_code": 1009093,
@@ -350,7 +350,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009094,
       "location_name": "Tomakomai,Hokkaido,Japan",
-      "label": "Tomakomai"
+      "label": "苫小牧市"
     },
     {
       "location_code": 1009096,
@@ -365,7 +365,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009098,
       "location_name": "Wakkanai,Hokkaido,Japan",
-      "label": "Wakkanai"
+      "label": "稚内市"
     },
     {
       "location_code": 1009099,
@@ -395,7 +395,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053265,
       "location_name": "Eniwa,Hokkaido,Japan",
-      "label": "Eniwa"
+      "label": "恵庭市"
     },
     {
       "location_code": 9053367,
@@ -530,7 +530,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197705,
       "location_name": "Kitahiroshima,Hokkaido,Japan",
-      "label": "Kitahiroshima"
+      "label": "北広島市"
     },
     {
       "location_code": 9197816,
@@ -660,7 +660,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9214374,
       "location_name": "Makubetsu,Hokkaido,Japan",
-      "label": "Makubetsu"
+      "label": "幕別町"
     },
     {
       "location_code": 9214937,
@@ -705,7 +705,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9219704,
       "location_name": "Kushiro,Hokkaido,Japan",
-      "label": "Kushiro"
+      "label": "釧路市"
     },
     {
       "location_code": 9221493,
@@ -742,22 +742,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009103,
       "location_name": "Aomori,Aomori,Japan",
-      "label": "Aomori"
+      "label": "青森市"
     },
     {
       "location_code": 1009104,
       "location_name": "Goshogawara,Aomori,Japan",
-      "label": "Goshogawara"
+      "label": "五所川原市"
     },
     {
       "location_code": 1009105,
       "location_name": "Hachinohe,Aomori,Japan",
-      "label": "Hachinohe"
+      "label": "八戸市"
     },
     {
       "location_code": 1009106,
       "location_name": "Hirosaki,Aomori,Japan",
-      "label": "Hirosaki"
+      "label": "弘前市"
     },
     {
       "location_code": 1009107,
@@ -767,7 +767,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009108,
       "location_name": "Mutsu,Aomori,Japan",
-      "label": "Mutsu"
+      "label": "むつ市"
     },
     {
       "location_code": 1009109,
@@ -782,7 +782,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009111,
       "location_name": "Towada,Aomori,Japan",
-      "label": "Towada"
+      "label": "十和田市"
     },
     {
       "location_code": 9041279,
@@ -802,7 +802,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197037,
       "location_name": "Osaka,Aomori,Japan",
-      "label": "Osaka"
+      "label": "大阪市"
     },
     {
       "location_code": 9197634,
@@ -837,7 +837,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9211620,
       "location_name": "Kuroishi,Aomori,Japan",
-      "label": "Kuroishi"
+      "label": "黒石市"
     },
     {
       "location_code": 9212616,
@@ -857,12 +857,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9215983,
       "location_name": "Tsugaru,Aomori,Japan",
-      "label": "Tsugaru"
+      "label": "つがる市"
     },
     {
       "location_code": 9220901,
       "location_name": "Hirakawa,Aomori,Japan",
-      "label": "Hirakawa"
+      "label": "平川市"
     },
     {
       "location_code": 9220913,
@@ -874,7 +874,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009112,
       "location_name": "Hanamaki,Iwate,Japan",
-      "label": "Hanamaki"
+      "label": "花巻市"
     },
     {
       "location_code": 1009113,
@@ -884,7 +884,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009114,
       "location_name": "Ichinoseki,Iwate,Japan",
-      "label": "Ichinoseki"
+      "label": "一関市"
     },
     {
       "location_code": 1009115,
@@ -894,32 +894,32 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009116,
       "location_name": "Kitakami,Iwate,Japan",
-      "label": "Kitakami"
+      "label": "北上市"
     },
     {
       "location_code": 1009117,
       "location_name": "Kuji,Iwate,Japan",
-      "label": "Kuji"
+      "label": "久慈市"
     },
     {
       "location_code": 1009118,
       "location_name": "Miyako,Iwate,Japan",
-      "label": "Miyako"
+      "label": "宮古市"
     },
     {
       "location_code": 1009120,
       "location_name": "Morioka,Iwate,Japan",
-      "label": "Morioka"
+      "label": "盛岡市"
     },
     {
       "location_code": 1009121,
       "location_name": "Ninohe,Iwate,Japan",
-      "label": "Ninohe"
+      "label": "二戸市"
     },
     {
       "location_code": 1009122,
       "location_name": "Ofunato,Iwate,Japan",
-      "label": "Ofunato"
+      "label": "大船渡市"
     },
     {
       "location_code": 1009123,
@@ -929,7 +929,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028817,
       "location_name": "Oshu,Iwate,Japan",
-      "label": "Oshu"
+      "label": "奥州市"
     },
     {
       "location_code": 9053303,
@@ -964,12 +964,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197348,
       "location_name": "Ueda,Iwate,Japan",
-      "label": "Ueda"
+      "label": "上田市"
     },
     {
       "location_code": 9207298,
       "location_name": "Nagai,Iwate,Japan",
-      "label": "Nagai"
+      "label": "長井市"
     },
     {
       "location_code": 9208483,
@@ -1031,12 +1031,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009126,
       "location_name": "Iwanuma,Miyagi,Japan",
-      "label": "Iwanuma"
+      "label": "岩沼市"
     },
     {
       "location_code": 1009127,
       "location_name": "Kesennuma,Miyagi,Japan",
-      "label": "Kesennuma"
+      "label": "気仙沼市"
     },
     {
       "location_code": 1009128,
@@ -1046,12 +1046,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009129,
       "location_name": "Sendai,Miyagi,Japan",
-      "label": "Sendai"
+      "label": "仙台市"
     },
     {
       "location_code": 1009130,
       "location_name": "Shiroishi,Miyagi,Japan",
-      "label": "Shiroishi"
+      "label": "白石市"
     },
     {
       "location_code": 1009131,
@@ -1061,7 +1061,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028818,
       "location_name": "Osaki,Miyagi,Japan",
-      "label": "Osaki"
+      "label": "大崎市"
     },
     {
       "location_code": 9041269,
@@ -1071,7 +1071,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053395,
       "location_name": "Tome,Miyagi,Japan",
-      "label": "Tome"
+      "label": "登米市"
     },
     {
       "location_code": 9190760,
@@ -1086,7 +1086,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9193473,
       "location_name": "Shiogama,Miyagi,Japan",
-      "label": "Shiogama"
+      "label": "塩竈市"
     },
     {
       "location_code": 9194038,
@@ -1111,7 +1111,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196562,
       "location_name": "Nakano,Miyagi,Japan",
-      "label": "Nakano"
+      "label": "中野区"
     },
     {
       "location_code": 9197015,
@@ -1196,7 +1196,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9198992,
       "location_name": "Natori,Miyagi,Japan",
-      "label": "Natori"
+      "label": "名取市"
     },
     {
       "location_code": 9199242,
@@ -1206,7 +1206,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9207565,
       "location_name": "Misato,Miyagi,Japan",
-      "label": "Misato"
+      "label": "三郷市"
     },
     {
       "location_code": 9207738,
@@ -1261,7 +1261,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9214486,
       "location_name": "Kakuda,Miyagi,Japan",
-      "label": "Kakuda"
+      "label": "角田市"
     },
     {
       "location_code": 9214598,
@@ -1311,12 +1311,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9221186,
       "location_name": "Kurihara,Miyagi,Japan",
-      "label": "Kurihara"
+      "label": "栗原市"
     },
     {
       "location_code": 9221747,
       "location_name": "Higashimatsushima,Miyagi,Japan",
-      "label": "Higashimatsushima"
+      "label": "東松島市"
     },
     {
       "location_code": 9222775,
@@ -1328,7 +1328,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009132,
       "location_name": "Akita,Akita,Japan",
-      "label": "Akita"
+      "label": "秋田市"
     },
     {
       "location_code": 1009134,
@@ -1363,7 +1363,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009140,
       "location_name": "Yokote,Akita,Japan",
-      "label": "Yokote"
+      "label": "横手市"
     },
     {
       "location_code": 1009141,
@@ -1425,17 +1425,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009142,
       "location_name": "Murayama,Yamagata,Japan",
-      "label": "Murayama"
+      "label": "村山市"
     },
     {
       "location_code": 1009143,
       "location_name": "Sagae,Yamagata,Japan",
-      "label": "Sagae"
+      "label": "寒河江市"
     },
     {
       "location_code": 1009144,
       "location_name": "Sakata,Yamagata,Japan",
-      "label": "Sakata"
+      "label": "酒田市"
     },
     {
       "location_code": 1009145,
@@ -1445,17 +1445,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009146,
       "location_name": "Tsuruoka,Yamagata,Japan",
-      "label": "Tsuruoka"
+      "label": "鶴岡市"
     },
     {
       "location_code": 1009147,
       "location_name": "Yamagata,Yamagata,Japan",
-      "label": "Yamagata"
+      "label": "山形市"
     },
     {
       "location_code": 1009148,
       "location_name": "Yonezawa,Yamagata,Japan",
-      "label": "Yonezawa"
+      "label": "米沢市"
     },
     {
       "location_code": 9041264,
@@ -1465,17 +1465,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053345,
       "location_name": "Nagai,Yamagata,Japan",
-      "label": "Nagai"
+      "label": "長井市"
     },
     {
       "location_code": 9189455,
       "location_name": "Kaminoyama,Yamagata,Japan",
-      "label": "Kaminoyama"
+      "label": "上山市"
     },
     {
       "location_code": 9199059,
       "location_name": "Tendo,Yamagata,Japan",
-      "label": "Tendo"
+      "label": "天童市"
     },
     {
       "location_code": 9207306,
@@ -1500,7 +1500,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9214818,
       "location_name": "Takahata,Yamagata,Japan",
-      "label": "Takahata"
+      "label": "高畠町"
     },
     {
       "location_code": 9217100,
@@ -1515,7 +1515,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9220056,
       "location_name": "Kanazawa,Yamagata,Japan",
-      "label": "Kanazawa"
+      "label": "金沢市"
     },
     {
       "location_code": 9222224,
@@ -1532,12 +1532,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009149,
       "location_name": "Aizuwakamatsu,Fukushima,Japan",
-      "label": "Aizuwakamatsu"
+      "label": "会津若松市"
     },
     {
       "location_code": 1009150,
       "location_name": "Fukushima,Fukushima,Japan",
-      "label": "Fukushima"
+      "label": "福島市"
     },
     {
       "location_code": 1009152,
@@ -1547,17 +1547,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009153,
       "location_name": "Iwaki,Fukushima,Japan",
-      "label": "Iwaki"
+      "label": "いわき市"
     },
     {
       "location_code": 1009154,
       "location_name": "Kitakata,Fukushima,Japan",
-      "label": "Kitakata"
+      "label": "喜多方市"
     },
     {
       "location_code": 1009155,
       "location_name": "Koriyama,Fukushima,Japan",
-      "label": "Koriyama"
+      "label": "郡山市"
     },
     {
       "location_code": 1009156,
@@ -1572,12 +1572,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009158,
       "location_name": "Shirakawa,Fukushima,Japan",
-      "label": "Shirakawa"
+      "label": "白河市"
     },
     {
       "location_code": 1009159,
       "location_name": "Sukagawa,Fukushima,Japan",
-      "label": "Sukagawa"
+      "label": "須賀川市"
     },
     {
       "location_code": 1009160,
@@ -1587,12 +1587,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028821,
       "location_name": "Minamisoma,Fukushima,Japan",
-      "label": "Minamisoma"
+      "label": "南相馬市"
     },
     {
       "location_code": 9189920,
       "location_name": "Soma,Fukushima,Japan",
-      "label": "Soma"
+      "label": "相馬市"
     },
     {
       "location_code": 9195598,
@@ -1677,7 +1677,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9209037,
       "location_name": "Date,Fukushima,Japan",
-      "label": "Date"
+      "label": "伊達市"
     },
     {
       "location_code": 9209751,
@@ -1769,7 +1769,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009163,
       "location_name": "Hitachi,Ibaraki,Japan",
-      "label": "Hitachi"
+      "label": "日立市"
     },
     {
       "location_code": 1009164,
@@ -1784,7 +1784,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009166,
       "location_name": "Ibaraki,Ibaraki,Japan",
-      "label": "Ibaraki"
+      "label": "茨城市"
     },
     {
       "location_code": 1009167,
@@ -1794,7 +1794,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009168,
       "location_name": "Itako,Ibaraki,Japan",
-      "label": "Itako"
+      "label": "潮来市"
     },
     {
       "location_code": 1009169,
@@ -1804,12 +1804,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009170,
       "location_name": "Kashima,Ibaraki,Japan",
-      "label": "Kashima"
+      "label": "鹿嶋市"
     },
     {
       "location_code": 1009171,
       "location_name": "Namegata,Ibaraki,Japan",
-      "label": "Namegata"
+      "label": "行方市"
     },
     {
       "location_code": 1009172,
@@ -1819,17 +1819,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009173,
       "location_name": "Mito,Ibaraki,Japan",
-      "label": "Mito"
+      "label": "水戸市"
     },
     {
       "location_code": 1009175,
       "location_name": "Ryugasaki,Ibaraki,Japan",
-      "label": "Ryugasaki"
+      "label": "龍ケ崎市"
     },
     {
       "location_code": 1009176,
       "location_name": "Chikusei,Ibaraki,Japan",
-      "label": "Chikusei"
+      "label": "筑西市"
     },
     {
       "location_code": 1009177,
@@ -1839,17 +1839,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009178,
       "location_name": "Toride,Ibaraki,Japan",
-      "label": "Toride"
+      "label": "取手市"
     },
     {
       "location_code": 1009179,
       "location_name": "Tsuchiura,Ibaraki,Japan",
-      "label": "Tsuchiura"
+      "label": "土浦市"
     },
     {
       "location_code": 1009180,
       "location_name": "Tsukuba,Ibaraki,Japan",
-      "label": "Tsukuba"
+      "label": "つくば市"
     },
     {
       "location_code": 1028822,
@@ -1874,17 +1874,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053289,
       "location_name": "Hitachinaka,Ibaraki,Japan",
-      "label": "Hitachinaka"
+      "label": "ひたちなか市"
     },
     {
       "location_code": 9053293,
       "location_name": "Inashiki,Ibaraki,Japan",
-      "label": "Inashiki"
+      "label": "稲敷市"
     },
     {
       "location_code": 9053304,
       "location_name": "Kamisu,Ibaraki,Japan",
-      "label": "Kamisu"
+      "label": "神栖市"
     },
     {
       "location_code": 9053311,
@@ -1894,7 +1894,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053340,
       "location_name": "Moriya,Ibaraki,Japan",
-      "label": "Moriya"
+      "label": "守谷市"
     },
     {
       "location_code": 9053348,
@@ -1914,17 +1914,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053401,
       "location_name": "Tsukubamirai,Ibaraki,Japan",
-      "label": "Tsukubamirai"
+      "label": "つくばみらい市"
     },
     {
       "location_code": 9053408,
       "location_name": "Ushiku,Ibaraki,Japan",
-      "label": "Ushiku"
+      "label": "牛久市"
     },
     {
       "location_code": 9053421,
       "location_name": "Yuki,Ibaraki,Japan",
-      "label": "Yuki"
+      "label": "結城市"
     },
     {
       "location_code": 9189201,
@@ -1934,12 +1934,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9189822,
       "location_name": "Shimotsuma,Ibaraki,Japan",
-      "label": "Shimotsuma"
+      "label": "下妻市"
     },
     {
       "location_code": 9190560,
       "location_name": "Sakai,Ibaraki,Japan",
-      "label": "Sakai"
+      "label": "堺市"
     },
     {
       "location_code": 9193413,
@@ -2049,7 +2049,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197277,
       "location_name": "Yuki,Yuki,Ibaraki,Japan",
-      "label": "Yuki"
+      "label": "結城市"
     },
     {
       "location_code": 9197592,
@@ -2069,7 +2069,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9207665,
       "location_name": "Nagaoka,Ibaraki,Japan",
-      "label": "Nagaoka"
+      "label": "長岡市"
     },
     {
       "location_code": 9208187,
@@ -2211,7 +2211,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009181,
       "location_name": "Ashikaga,Tochigi,Japan",
-      "label": "Ashikaga"
+      "label": "足利市"
     },
     {
       "location_code": 1009182,
@@ -2231,7 +2231,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009185,
       "location_name": "Kanuma,Tochigi,Japan",
-      "label": "Kanuma"
+      "label": "鹿沼市"
     },
     {
       "location_code": 1009186,
@@ -2261,22 +2261,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009191,
       "location_name": "Nikko,Tochigi,Japan",
-      "label": "Nikko"
+      "label": "日光市"
     },
     {
       "location_code": 1009193,
       "location_name": "Otawara,Tochigi,Japan",
-      "label": "Otawara"
+      "label": "大田原市"
     },
     {
       "location_code": 1009194,
       "location_name": "Oyama,Tochigi,Japan",
-      "label": "Oyama"
+      "label": "小山市"
     },
     {
       "location_code": 1009195,
       "location_name": "Sano,Tochigi,Japan",
-      "label": "Sano"
+      "label": "佐野市"
     },
     {
       "location_code": 1009196,
@@ -2286,12 +2286,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009197,
       "location_name": "Tochigi,Tochigi,Japan",
-      "label": "Tochigi"
+      "label": "栃木市"
     },
     {
       "location_code": 1009198,
       "location_name": "Utsunomiya,Tochigi,Japan",
-      "label": "Utsunomiya"
+      "label": "宇都宮市"
     },
     {
       "location_code": 1009458,
@@ -2301,7 +2301,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028823,
       "location_name": "Shimotsuke,Tochigi,Japan",
-      "label": "Shimotsuke"
+      "label": "下野市"
     },
     {
       "location_code": 9053330,
@@ -2311,12 +2311,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053353,
       "location_name": "Nasushiobara,Tochigi,Japan",
-      "label": "Nasushiobara"
+      "label": "那須塩原市"
     },
     {
       "location_code": 9190426,
       "location_name": "Sakura,Tochigi,Japan",
-      "label": "Sakura"
+      "label": "佐倉市"
     },
     {
       "location_code": 9194417,
@@ -2326,7 +2326,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9194625,
       "location_name": "Yaita,Tochigi,Japan",
-      "label": "Yaita"
+      "label": "矢板市"
     },
     {
       "location_code": 9194667,
@@ -2436,7 +2436,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9213617,
       "location_name": "Koganei,Tochigi,Japan",
-      "label": "Koganei"
+      "label": "小金井市"
     },
     {
       "location_code": 9214163,
@@ -2513,22 +2513,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009199,
       "location_name": "Fujioka,Gunma,Japan",
-      "label": "Fujioka"
+      "label": "藤岡市"
     },
     {
       "location_code": 1009201,
       "location_name": "Isesaki,Gunma,Japan",
-      "label": "Isesaki"
+      "label": "伊勢崎市"
     },
     {
       "location_code": 1009202,
       "location_name": "Kiryu,Gunma,Japan",
-      "label": "Kiryu"
+      "label": "桐生市"
     },
     {
       "location_code": 1009203,
       "location_name": "Maebashi,Gunma,Japan",
-      "label": "Maebashi"
+      "label": "前橋市"
     },
     {
       "location_code": 1009205,
@@ -2538,17 +2538,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009206,
       "location_name": "Numata,Gunma,Japan",
-      "label": "Numata"
+      "label": "沼田市"
     },
     {
       "location_code": 1009207,
       "location_name": "Ota,Gunma,Japan",
-      "label": "Ota"
+      "label": "大田区"
     },
     {
       "location_code": 1009208,
       "location_name": "Shibukawa,Gunma,Japan",
-      "label": "Shibukawa"
+      "label": "渋川市"
     },
     {
       "location_code": 1009209,
@@ -2558,22 +2558,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009210,
       "location_name": "Takasaki,Gunma,Japan",
-      "label": "Takasaki"
+      "label": "高崎市"
     },
     {
       "location_code": 1009211,
       "location_name": "Tatebayashi,Gunma,Japan",
-      "label": "Tatebayashi"
+      "label": "館林市"
     },
     {
       "location_code": 1009212,
       "location_name": "Tomioka,Gunma,Japan",
-      "label": "Tomioka"
+      "label": "富岡市"
     },
     {
       "location_code": 9053253,
       "location_name": "Annaka,Gunma,Japan",
-      "label": "Annaka"
+      "label": "安中市"
     },
     {
       "location_code": 9053329,
@@ -2613,7 +2613,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196245,
       "location_name": "Kusatsu,Gunma,Japan",
-      "label": "Kusatsu"
+      "label": "草津市"
     },
     {
       "location_code": 9196372,
@@ -2623,7 +2623,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196842,
       "location_name": "Fujioka,Fujioka,Gunma,Japan",
-      "label": "Fujioka"
+      "label": "藤岡市"
     },
     {
       "location_code": 9197083,
@@ -2633,7 +2633,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197421,
       "location_name": "Shibukawa,Shibukawa,Gunma,Japan",
-      "label": "Shibukawa"
+      "label": "渋川市"
     },
     {
       "location_code": 9197562,
@@ -2663,12 +2663,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9211543,
       "location_name": "Tomioka,Tomioka,Gunma,Japan",
-      "label": "Tomioka"
+      "label": "富岡市"
     },
     {
       "location_code": 9211905,
       "location_name": "Chiyoda,Gunma,Japan",
-      "label": "Chiyoda"
+      "label": "千代田区"
     },
     {
       "location_code": 9212136,
@@ -2713,12 +2713,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9219153,
       "location_name": "Midori,Gunma,Japan",
-      "label": "Midori"
+      "label": "みどり市"
     },
     {
       "location_code": 9219281,
       "location_name": "Nakano,Gunma,Japan",
-      "label": "Nakano"
+      "label": "中野区"
     },
     {
       "location_code": 9219393,
@@ -2745,27 +2745,27 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009213,
       "location_name": "Ageo,Saitama,Japan",
-      "label": "Ageo"
+      "label": "上尾市"
     },
     {
       "location_code": 1009214,
       "location_name": "Asaka,Saitama,Japan",
-      "label": "Asaka"
+      "label": "朝霞市"
     },
     {
       "location_code": 1009215,
       "location_name": "Chichibu,Saitama,Japan",
-      "label": "Chichibu"
+      "label": "秩父市"
     },
     {
       "location_code": 1009216,
       "location_name": "Hanno,Saitama,Japan",
-      "label": "Hanno"
+      "label": "飯能市"
     },
     {
       "location_code": 1009217,
       "location_name": "Higashimatsuyama,Saitama,Japan",
-      "label": "Higashimatsuyama"
+      "label": "東松山市"
     },
     {
       "location_code": 1009218,
@@ -2775,12 +2775,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009219,
       "location_name": "Honjo,Saitama,Japan",
-      "label": "Honjo"
+      "label": "本庄市"
     },
     {
       "location_code": 1009220,
       "location_name": "Iruma,Saitama,Japan",
-      "label": "Iruma"
+      "label": "入間市"
     },
     {
       "location_code": 1009221,
@@ -2790,42 +2790,42 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009223,
       "location_name": "Kasukabe,Saitama,Japan",
-      "label": "Kasukabe"
+      "label": "春日部市"
     },
     {
       "location_code": 1009224,
       "location_name": "Kawagoe,Saitama,Japan",
-      "label": "Kawagoe"
+      "label": "川越市"
     },
     {
       "location_code": 1009225,
       "location_name": "Kawaguchi,Saitama,Japan",
-      "label": "Kawaguchi"
+      "label": "川口市"
     },
     {
       "location_code": 1009226,
       "location_name": "Kazo,Saitama,Japan",
-      "label": "Kazo"
+      "label": "加須市"
     },
     {
       "location_code": 1009227,
       "location_name": "Koshigaya,Saitama,Japan",
-      "label": "Koshigaya"
+      "label": "越谷市"
     },
     {
       "location_code": 1009228,
       "location_name": "Kuki,Saitama,Japan",
-      "label": "Kuki"
+      "label": "久喜市"
     },
     {
       "location_code": 1009229,
       "location_name": "Kumagaya,Saitama,Japan",
-      "label": "Kumagaya"
+      "label": "熊谷市"
     },
     {
       "location_code": 1009230,
       "location_name": "Misato,Saitama,Japan",
-      "label": "Misato"
+      "label": "三郷市"
     },
     {
       "location_code": 1009231,
@@ -2835,7 +2835,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009233,
       "location_name": "Niiza,Saitama,Japan",
-      "label": "Niiza"
+      "label": "新座市"
     },
     {
       "location_code": 1009234,
@@ -2850,27 +2850,27 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009237,
       "location_name": "Sakado,Saitama,Japan",
-      "label": "Sakado"
+      "label": "坂戸市"
     },
     {
       "location_code": 1009238,
       "location_name": "Sayama,Saitama,Japan",
-      "label": "Sayama"
+      "label": "狭山市"
     },
     {
       "location_code": 1009239,
       "location_name": "Shiki,Saitama,Japan",
-      "label": "Shiki"
+      "label": "志木市"
     },
     {
       "location_code": 1009240,
       "location_name": "Soka,Saitama,Japan",
-      "label": "Soka"
+      "label": "草加市"
     },
     {
       "location_code": 1009241,
       "location_name": "Tokorozawa,Saitama,Japan",
-      "label": "Tokorozawa"
+      "label": "所沢市"
     },
     {
       "location_code": 1009242,
@@ -2880,12 +2880,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009243,
       "location_name": "Wako,Saitama,Japan",
-      "label": "Wako"
+      "label": "和光市"
     },
     {
       "location_code": 1009244,
       "location_name": "Warabi,Saitama,Japan",
-      "label": "Warabi"
+      "label": "蕨市"
     },
     {
       "location_code": 1009245,
@@ -2900,12 +2900,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028825,
       "location_name": "Saitama,Saitama,Japan",
-      "label": "Saitama"
+      "label": "埼玉市"
     },
     {
       "location_code": 9053268,
       "location_name": "Fujimi,Saitama,Japan",
-      "label": "Fujimi"
+      "label": "富士見市"
     },
     {
       "location_code": 9053270,
@@ -2915,7 +2915,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053274,
       "location_name": "Gyoda,Saitama,Japan",
-      "label": "Gyoda"
+      "label": "行田市"
     },
     {
       "location_code": 9053278,
@@ -2930,12 +2930,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053312,
       "location_name": "Kitamoto,Saitama,Japan",
-      "label": "Kitamoto"
+      "label": "北本市"
     },
     {
       "location_code": 9053318,
       "location_name": "Konosu,Saitama,Japan",
-      "label": "Konosu"
+      "label": "鴻巣市"
     },
     {
       "location_code": 9053328,
@@ -2955,7 +2955,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053361,
       "location_name": "Okegawa,Saitama,Japan",
-      "label": "Okegawa"
+      "label": "桶川市"
     },
     {
       "location_code": 9053379,
@@ -2965,7 +2965,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053391,
       "location_name": "Toda,Saitama,Japan",
-      "label": "Toda"
+      "label": "戸田市"
     },
     {
       "location_code": 9053402,
@@ -2975,7 +2975,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053415,
       "location_name": "Yashio,Saitama,Japan",
-      "label": "Yashio"
+      "label": "八潮市"
     },
     {
       "location_code": 9053419,
@@ -3065,7 +3065,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196090,
       "location_name": "Yamaguchi,Saitama,Japan",
-      "label": "Yamaguchi"
+      "label": "山口市"
     },
     {
       "location_code": 9196233,
@@ -3155,7 +3155,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9198208,
       "location_name": "Hasuda,Saitama,Japan",
-      "label": "Hasuda"
+      "label": "蓮田市"
     },
     {
       "location_code": 9198447,
@@ -3175,7 +3175,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9207763,
       "location_name": "Misato,Saitama,Japan",
-      "label": "Misato"
+      "label": "三郷市"
     },
     {
       "location_code": 9207790,
@@ -3322,12 +3322,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009246,
       "location_name": "Abiko,Chiba,Japan",
-      "label": "Abiko"
+      "label": "我孫子市"
     },
     {
       "location_code": 1009247,
       "location_name": "Chiba,Chiba,Japan",
-      "label": "Chiba"
+      "label": "千葉市"
     },
     {
       "location_code": 1009248,
@@ -3337,12 +3337,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009249,
       "location_name": "Choshi,Chiba,Japan",
-      "label": "Choshi"
+      "label": "銚子市"
     },
     {
       "location_code": 1009250,
       "location_name": "Funabashi,Chiba,Japan",
-      "label": "Funabashi"
+      "label": "船橋市"
     },
     {
       "location_code": 1009251,
@@ -3367,7 +3367,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009255,
       "location_name": "Kashiwa,Chiba,Japan",
-      "label": "Kashiwa"
+      "label": "柏市"
     },
     {
       "location_code": 1009256,
@@ -3387,12 +3387,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009260,
       "location_name": "Matsudo,Chiba,Japan",
-      "label": "Matsudo"
+      "label": "松戸市"
     },
     {
       "location_code": 1009261,
       "location_name": "Minato,Chiba,Japan",
-      "label": "Minato"
+      "label": "港区"
     },
     {
       "location_code": 1009262,
@@ -3402,7 +3402,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009263,
       "location_name": "Nagareyama,Chiba,Japan",
-      "label": "Nagareyama"
+      "label": "流山市"
     },
     {
       "location_code": 1009264,
@@ -3417,12 +3417,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009266,
       "location_name": "Noda,Chiba,Japan",
-      "label": "Noda"
+      "label": "野田市"
     },
     {
       "location_code": 1009268,
       "location_name": "Sakura,Chiba,Japan",
-      "label": "Sakura"
+      "label": "佐倉市"
     },
     {
       "location_code": 1009270,
@@ -3442,7 +3442,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009274,
       "location_name": "Urayasu,Chiba,Japan",
-      "label": "Urayasu"
+      "label": "浦安市"
     },
     {
       "location_code": 1009275,
@@ -3482,7 +3482,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053380,
       "location_name": "Shiroi,Chiba,Japan",
-      "label": "Shiroi"
+      "label": "白井市"
     },
     {
       "location_code": 9053382,
@@ -3502,7 +3502,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053413,
       "location_name": "Yachiyo,Chiba,Japan",
-      "label": "Yachiyo"
+      "label": "八千代市"
     },
     {
       "location_code": 9053420,
@@ -3827,7 +3827,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9215507,
       "location_name": "Ichinomiya,Chiba,Japan",
-      "label": "Ichinomiya"
+      "label": "一宮市"
     },
     {
       "location_code": 9215561,
@@ -3929,7 +3929,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009277,
       "location_name": "Akishima,Tokyo,Japan",
-      "label": "Akishima"
+      "label": "昭島市"
     },
     {
       "location_code": 1009278,
@@ -3949,7 +3949,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009281,
       "location_name": "Chofu,Tokyo,Japan",
-      "label": "Chofu"
+      "label": "調布市"
     },
     {
       "location_code": 1009282,
@@ -3959,7 +3959,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009283,
       "location_name": "Fuchu,Tokyo,Japan",
-      "label": "Fuchu"
+      "label": "府中市"
     },
     {
       "location_code": 1009284,
@@ -3969,7 +3969,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009285,
       "location_name": "Hachioji,Tokyo,Japan",
-      "label": "Hachioji"
+      "label": "八王子市"
     },
     {
       "location_code": 1009286,
@@ -3979,12 +3979,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009287,
       "location_name": "Higashimurayama,Tokyo,Japan",
-      "label": "Higashimurayama"
+      "label": "東村山市"
     },
     {
       "location_code": 1009288,
       "location_name": "Hino,Tokyo,Japan",
-      "label": "Hino"
+      "label": "日野市"
     },
     {
       "location_code": 1009289,
@@ -4009,22 +4009,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009294,
       "location_name": "Kodaira,Tokyo,Japan",
-      "label": "Kodaira"
+      "label": "小平市"
     },
     {
       "location_code": 1009295,
       "location_name": "Koganei,Tokyo,Japan",
-      "label": "Koganei"
+      "label": "小金井市"
     },
     {
       "location_code": 1009296,
       "location_name": "Kokubunji,Tokyo,Japan",
-      "label": "Kokubunji"
+      "label": "国分寺市"
     },
     {
       "location_code": 1009297,
       "location_name": "Komae,Tokyo,Japan",
-      "label": "Komae"
+      "label": "狛江市"
     },
     {
       "location_code": 1009298,
@@ -4034,7 +4034,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009299,
       "location_name": "Machida,Tokyo,Japan",
-      "label": "Machida"
+      "label": "町田市"
     },
     {
       "location_code": 1009300,
@@ -4049,7 +4049,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009302,
       "location_name": "Musashino,Tokyo,Japan",
-      "label": "Musashino"
+      "label": "武蔵野市"
     },
     {
       "location_code": 1009303,
@@ -4064,7 +4064,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009305,
       "location_name": "Ome,Tokyo,Japan",
-      "label": "Ome"
+      "label": "青梅市"
     },
     {
       "location_code": 1009306,
@@ -4079,7 +4079,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009308,
       "location_name": "Shibuya,Tokyo,Japan",
-      "label": "Shibuya"
+      "label": "渋谷区"
     },
     {
       "location_code": 1009309,
@@ -4114,7 +4114,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009315,
       "location_name": "Tama,Tokyo,Japan",
-      "label": "Tama"
+      "label": "多摩市"
     },
     {
       "location_code": 1009317,
@@ -4129,7 +4129,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028828,
       "location_name": "Nishitokyo,Tokyo,Japan",
-      "label": "Nishitokyo"
+      "label": "西東京市"
     },
     {
       "location_code": 1028850,
@@ -4169,12 +4169,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053313,
       "location_name": "Kiyose,Tokyo,Japan",
-      "label": "Kiyose"
+      "label": "清瀬市"
     },
     {
       "location_code": 9053324,
       "location_name": "Kunitachi,Tokyo,Japan",
-      "label": "Kunitachi"
+      "label": "国立市"
     },
     {
       "location_code": 9053344,
@@ -4199,7 +4199,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9195697,
       "location_name": "Yashio,Tokyo,Japan",
-      "label": "Yashio"
+      "label": "八潮市"
     },
     {
       "location_code": 9195757,
@@ -4401,7 +4401,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009320,
       "location_name": "Atsugi,Kanagawa,Japan",
-      "label": "Atsugi"
+      "label": "厚木市"
     },
     {
       "location_code": 1009321,
@@ -4411,7 +4411,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009322,
       "location_name": "Chigasaki,Kanagawa,Japan",
-      "label": "Chigasaki"
+      "label": "茅ヶ崎市"
     },
     {
       "location_code": 1009323,
@@ -4421,7 +4421,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009324,
       "location_name": "Fujisawa,Kanagawa,Japan",
-      "label": "Fujisawa"
+      "label": "藤沢市"
     },
     {
       "location_code": 1009325,
@@ -4431,7 +4431,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009326,
       "location_name": "Hadano,Kanagawa,Japan",
-      "label": "Hadano"
+      "label": "秦野市"
     },
     {
       "location_code": 1009327,
@@ -4441,7 +4441,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009328,
       "location_name": "Hiratsuka,Kanagawa,Japan",
-      "label": "Hiratsuka"
+      "label": "平塚市"
     },
     {
       "location_code": 1009329,
@@ -4451,12 +4451,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009330,
       "location_name": "Isehara,Kanagawa,Japan",
-      "label": "Isehara"
+      "label": "伊勢原市"
     },
     {
       "location_code": 1009331,
       "location_name": "Kamakura,Kanagawa,Japan",
-      "label": "Kamakura"
+      "label": "鎌倉市"
     },
     {
       "location_code": 1009332,
@@ -4466,7 +4466,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009333,
       "location_name": "Kawasaki,Kanagawa,Japan",
-      "label": "Kawasaki"
+      "label": "川崎市"
     },
     {
       "location_code": 1009335,
@@ -4491,12 +4491,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009339,
       "location_name": "Odawara,Kanagawa,Japan",
-      "label": "Odawara"
+      "label": "小田原市"
     },
     {
       "location_code": 1009340,
       "location_name": "Sagamihara,Kanagawa,Japan",
-      "label": "Sagamihara"
+      "label": "相模原市"
     },
     {
       "location_code": 1009341,
@@ -4506,22 +4506,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009342,
       "location_name": "Yamato,Kanagawa,Japan",
-      "label": "Yamato"
+      "label": "大和市"
     },
     {
       "location_code": 1009343,
       "location_name": "Yokohama,Kanagawa,Japan",
-      "label": "Yokohama"
+      "label": "横浜市"
     },
     {
       "location_code": 1009344,
       "location_name": "Yokosuka,Kanagawa,Japan",
-      "label": "Yokosuka"
+      "label": "横須賀市"
     },
     {
       "location_code": 1009345,
       "location_name": "Zama,Kanagawa,Japan",
-      "label": "Zama"
+      "label": "座間市"
     },
     {
       "location_code": 9053373,
@@ -4531,7 +4531,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053422,
       "location_name": "Zushi,Kanagawa,Japan",
-      "label": "Zushi"
+      "label": "逗子市"
     },
     {
       "location_code": 9190837,
@@ -5073,12 +5073,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009354,
       "location_name": "Nagaoka,Niigata,Japan",
-      "label": "Nagaoka"
+      "label": "長岡市"
     },
     {
       "location_code": 1009355,
       "location_name": "Niigata,Niigata,Japan",
-      "label": "Niigata"
+      "label": "新潟市"
     },
     {
       "location_code": 1009357,
@@ -5193,7 +5193,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9218350,
       "location_name": "Ota,Niigata,Japan",
-      "label": "Ota"
+      "label": "大田区"
     },
     {
       "location_code": 9218877,
@@ -5230,7 +5230,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009365,
       "location_name": "Toyama,Toyama,Japan",
-      "label": "Toyama"
+      "label": "富山市"
     },
     {
       "location_code": 1009366,
@@ -5302,12 +5302,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009370,
       "location_name": "Kanazawa,Ishikawa,Japan",
-      "label": "Kanazawa"
+      "label": "金沢市"
     },
     {
       "location_code": 1009371,
       "location_name": "Komatsu,Ishikawa,Japan",
-      "label": "Komatsu"
+      "label": "小松市"
     },
     {
       "location_code": 1009372,
@@ -5352,7 +5352,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053356,
       "location_name": "Nonoichi,Ishikawa,Japan",
-      "label": "Nonoichi"
+      "label": "野々市市"
     },
     {
       "location_code": 9053377,
@@ -5414,7 +5414,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053372,
       "location_name": "Sakai,Fukui,Japan",
-      "label": "Sakai"
+      "label": "堺市"
     },
     {
       "location_code": 9053409,
@@ -5451,7 +5451,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009385,
       "location_name": "Kofu,Yamanashi,Japan",
-      "label": "Kofu"
+      "label": "甲府市"
     },
     {
       "location_code": 1009386,
@@ -5638,7 +5638,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009398,
       "location_name": "Matsumoto,Nagano,Japan",
-      "label": "Matsumoto"
+      "label": "松本市"
     },
     {
       "location_code": 1009399,
@@ -5653,12 +5653,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009401,
       "location_name": "Nagano,Nagano,Japan",
-      "label": "Nagano"
+      "label": "長野市"
     },
     {
       "location_code": 1009402,
       "location_name": "Nakano,Nagano,Japan",
-      "label": "Nakano"
+      "label": "中野区"
     },
     {
       "location_code": 1009403,
@@ -5708,7 +5708,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009412,
       "location_name": "Ueda,Nagano,Japan",
-      "label": "Ueda"
+      "label": "上田市"
     },
     {
       "location_code": 9041266,
@@ -5728,7 +5728,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053269,
       "location_name": "Fujimi,Nagano,Japan",
-      "label": "Fujimi"
+      "label": "富士見市"
     },
     {
       "location_code": 9053305,
@@ -5848,7 +5848,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9208511,
       "location_name": "Minato,Nagano,Japan",
-      "label": "Minato"
+      "label": "港区"
     },
     {
       "location_code": 9208778,
@@ -5868,7 +5868,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9208976,
       "location_name": "Fujimi,Fujimi,Nagano,Japan",
-      "label": "Fujimi"
+      "label": "富士見市"
     },
     {
       "location_code": 9209060,
@@ -6025,7 +6025,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009415,
       "location_name": "Gifu,Gifu,Japan",
-      "label": "Gifu"
+      "label": "岐阜市"
     },
     {
       "location_code": 1009416,
@@ -6090,7 +6090,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1028830,
       "location_name": "Yamagata,Gifu,Japan",
-      "label": "Yamagata"
+      "label": "山形市"
     },
     {
       "location_code": 9053279,
@@ -6282,12 +6282,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009430,
       "location_name": "Fuji,Shizuoka,Japan",
-      "label": "Fuji"
+      "label": "富士市"
     },
     {
       "location_code": 1009431,
       "location_name": "Fujieda,Shizuoka,Japan",
-      "label": "Fujieda"
+      "label": "藤枝市"
     },
     {
       "location_code": 1009432,
@@ -6307,7 +6307,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009435,
       "location_name": "Hamamatsu,Shizuoka,Japan",
-      "label": "Hamamatsu"
+      "label": "浜松市"
     },
     {
       "location_code": 1009436,
@@ -6317,7 +6317,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009437,
       "location_name": "Iwata,Shizuoka,Japan",
-      "label": "Iwata"
+      "label": "磐田市"
     },
     {
       "location_code": 1009438,
@@ -6332,7 +6332,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009440,
       "location_name": "Numazu,Shizuoka,Japan",
-      "label": "Numazu"
+      "label": "沼津市"
     },
     {
       "location_code": 1009441,
@@ -6352,7 +6352,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009444,
       "location_name": "Shizuoka,Shizuoka,Japan",
-      "label": "Shizuoka"
+      "label": "静岡市"
     },
     {
       "location_code": 1009445,
@@ -6667,12 +6667,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9215014,
       "location_name": "Sano,Shizuoka,Japan",
-      "label": "Sano"
+      "label": "佐野市"
     },
     {
       "location_code": 9215091,
       "location_name": "Oyama,Shizuoka,Japan",
-      "label": "Oyama"
+      "label": "小山市"
     },
     {
       "location_code": 9215200,
@@ -6769,17 +6769,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009452,
       "location_name": "Handa,Aichi,Japan",
-      "label": "Handa"
+      "label": "半田市"
     },
     {
       "location_code": 1009453,
       "location_name": "Ichinomiya,Aichi,Japan",
-      "label": "Ichinomiya"
+      "label": "一宮市"
     },
     {
       "location_code": 1009454,
       "location_name": "Inazawa,Aichi,Japan",
-      "label": "Inazawa"
+      "label": "稲沢市"
     },
     {
       "location_code": 1009455,
@@ -6809,7 +6809,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009461,
       "location_name": "Nagoya,Aichi,Japan",
-      "label": "Nagoya"
+      "label": "名古屋市"
     },
     {
       "location_code": 1009462,
@@ -6834,7 +6834,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009466,
       "location_name": "Okazaki,Aichi,Japan",
-      "label": "Okazaki"
+      "label": "岡崎市"
     },
     {
       "location_code": 1009467,
@@ -6864,12 +6864,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009473,
       "location_name": "Toyohashi,Aichi,Japan",
-      "label": "Toyohashi"
+      "label": "豊橋市"
     },
     {
       "location_code": 1009474,
       "location_name": "Toyokawa,Aichi,Japan",
-      "label": "Toyokawa"
+      "label": "豊川市"
     },
     {
       "location_code": 1009475,
@@ -7044,7 +7044,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9195934,
       "location_name": "Morioka,Aichi,Japan",
-      "label": "Morioka"
+      "label": "盛岡市"
     },
     {
       "location_code": 9195954,
@@ -7516,7 +7516,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009480,
       "location_name": "Ise,Mie,Japan",
-      "label": "Ise"
+      "label": "伊勢市"
     },
     {
       "location_code": 1009481,
@@ -7531,7 +7531,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009483,
       "location_name": "Matsusaka,Mie,Japan",
-      "label": "Matsusaka"
+      "label": "松阪市"
     },
     {
       "location_code": 1009484,
@@ -7561,7 +7561,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009489,
       "location_name": "Tsu,Mie,Japan",
-      "label": "Tsu"
+      "label": "津市"
     },
     {
       "location_code": 1009490,
@@ -7596,7 +7596,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9191816,
       "location_name": "Kawagoe,Mie,Japan",
-      "label": "Kawagoe"
+      "label": "川越市"
     },
     {
       "location_code": 9191866,
@@ -7646,7 +7646,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9213490,
       "location_name": "Handa,Mie,Japan",
-      "label": "Handa"
+      "label": "半田市"
     },
     {
       "location_code": 9215723,
@@ -7713,7 +7713,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009497,
       "location_name": "Kusatsu,Shiga,Japan",
-      "label": "Kusatsu"
+      "label": "草津市"
     },
     {
       "location_code": 1009498,
@@ -7733,7 +7733,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009501,
       "location_name": "Otsu,Shiga,Japan",
-      "label": "Otsu"
+      "label": "大津市"
     },
     {
       "location_code": 1009502,
@@ -7753,7 +7753,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053288,
       "location_name": "Hino,Shiga,Japan",
-      "label": "Hino"
+      "label": "日野市"
     },
     {
       "location_code": 9053315,
@@ -7865,7 +7865,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009507,
       "location_name": "Kyoto,Kyoto,Japan",
-      "label": "Kyoto"
+      "label": "京都市"
     },
     {
       "location_code": 1009508,
@@ -7905,7 +7905,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009515,
       "location_name": "Uji,Kyoto,Japan",
-      "label": "Uji"
+      "label": "宇治市"
     },
     {
       "location_code": 1009516,
@@ -7945,7 +7945,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053326,
       "location_name": "Kyotanabe,Kyoto,Japan",
-      "label": "Kyotanabe"
+      "label": "京田辺市"
     },
     {
       "location_code": 9053347,
@@ -7995,7 +7995,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196646,
       "location_name": "Tono,Kyoto,Japan",
-      "label": "Tono"
+      "label": "遠野市"
     },
     {
       "location_code": 9196650,
@@ -8010,7 +8010,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9197089,
       "location_name": "Uji,Uji,Kyoto,Japan",
-      "label": "Uji"
+      "label": "宇治市"
     },
     {
       "location_code": 9197169,
@@ -8122,7 +8122,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009520,
       "location_name": "Habikino,Osaka,Japan",
-      "label": "Habikino"
+      "label": "羽曳野市"
     },
     {
       "location_code": 1009521,
@@ -8132,17 +8132,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009522,
       "location_name": "Higashiosaka,Osaka,Japan",
-      "label": "Higashiosaka"
+      "label": "東大阪市"
     },
     {
       "location_code": 1009523,
       "location_name": "Hirakata,Osaka,Japan",
-      "label": "Hirakata"
+      "label": "枚方市"
     },
     {
       "location_code": 1009524,
       "location_name": "Ibaraki,Osaka,Japan",
-      "label": "Ibaraki"
+      "label": "茨城市"
     },
     {
       "location_code": 1009525,
@@ -8152,7 +8152,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009526,
       "location_name": "Izumi,Osaka,Japan",
-      "label": "Izumi"
+      "label": "和泉市"
     },
     {
       "location_code": 1009527,
@@ -8162,12 +8162,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009528,
       "location_name": "Izumisano,Osaka,Japan",
-      "label": "Izumisano"
+      "label": "泉佐野市"
     },
     {
       "location_code": 1009529,
       "location_name": "Kadoma,Osaka,Japan",
-      "label": "Kadoma"
+      "label": "門真市"
     },
     {
       "location_code": 1009530,
@@ -8197,7 +8197,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009535,
       "location_name": "Minoh,Osaka,Japan",
-      "label": "Minoh"
+      "label": "箕面市"
     },
     {
       "location_code": 1009536,
@@ -8212,7 +8212,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009538,
       "location_name": "Neyagawa,Osaka,Japan",
-      "label": "Neyagawa"
+      "label": "寝屋川市"
     },
     {
       "location_code": 1009539,
@@ -8222,22 +8222,22 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009540,
       "location_name": "Osaka,Osaka,Japan",
-      "label": "Osaka"
+      "label": "大阪市"
     },
     {
       "location_code": 1009541,
       "location_name": "Sakai,Osaka,Japan",
-      "label": "Sakai"
+      "label": "堺市"
     },
     {
       "location_code": 1009542,
       "location_name": "Osakasayama,Osaka,Japan",
-      "label": "Osakasayama"
+      "label": "大阪狭山市"
     },
     {
       "location_code": 1009543,
       "location_name": "Suita,Osaka,Japan",
-      "label": "Suita"
+      "label": "吹田市"
     },
     {
       "location_code": 1009544,
@@ -8247,7 +8247,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009545,
       "location_name": "Takatsuki,Osaka,Japan",
-      "label": "Takatsuki"
+      "label": "高槻市"
     },
     {
       "location_code": 1009546,
@@ -8257,12 +8257,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009547,
       "location_name": "Toyonaka,Osaka,Japan",
-      "label": "Toyonaka"
+      "label": "豊中市"
     },
     {
       "location_code": 1009548,
       "location_name": "Yao,Osaka,Japan",
-      "label": "Yao"
+      "label": "八尾市"
     },
     {
       "location_code": 1009549,
@@ -8282,7 +8282,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053264,
       "location_name": "Daito,Osaka,Japan",
-      "label": "Daito"
+      "label": "大東市"
     },
     {
       "location_code": 9053277,
@@ -8569,7 +8569,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009550,
       "location_name": "Akashi,Hyogo,Japan",
-      "label": "Akashi"
+      "label": "明石市"
     },
     {
       "location_code": 1009551,
@@ -8579,7 +8579,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009552,
       "location_name": "Amagasaki,Hyogo,Japan",
-      "label": "Amagasaki"
+      "label": "尼崎市"
     },
     {
       "location_code": 1009553,
@@ -8604,7 +8604,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009557,
       "location_name": "Himeji,Hyogo,Japan",
-      "label": "Himeji"
+      "label": "姫路市"
     },
     {
       "location_code": 1009559,
@@ -8619,7 +8619,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009562,
       "location_name": "Kakogawa,Hyogo,Japan",
-      "label": "Kakogawa"
+      "label": "加古川市"
     },
     {
       "location_code": 1009563,
@@ -8634,7 +8634,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009565,
       "location_name": "Kobe,Hyogo,Japan",
-      "label": "Kobe"
+      "label": "神戸市"
     },
     {
       "location_code": 1009566,
@@ -8644,7 +8644,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009567,
       "location_name": "Nishinomiya,Hyogo,Japan",
-      "label": "Nishinomiya"
+      "label": "西宮市"
     },
     {
       "location_code": 1009568,
@@ -8669,7 +8669,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009572,
       "location_name": "Takarazuka,Hyogo,Japan",
-      "label": "Takarazuka"
+      "label": "宝塚市"
     },
     {
       "location_code": 1009573,
@@ -9116,7 +9116,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009580,
       "location_name": "Ikoma,Nara,Japan",
-      "label": "Ikoma"
+      "label": "生駒市"
     },
     {
       "location_code": 1009581,
@@ -9131,7 +9131,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009584,
       "location_name": "Nara,Nara,Japan",
-      "label": "Nara"
+      "label": "奈良市"
     },
     {
       "location_code": 1009585,
@@ -9308,7 +9308,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009601,
       "location_name": "Wakayama,Wakayama,Japan",
-      "label": "Wakayama"
+      "label": "和歌山市"
     },
     {
       "location_code": 1009602,
@@ -9338,7 +9338,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9196044,
       "location_name": "Minato,Wakayama,Japan",
-      "label": "Minato"
+      "label": "港区"
     },
     {
       "location_code": 9197563,
@@ -9378,7 +9378,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9219992,
       "location_name": "Matsue,Wakayama,Japan",
-      "label": "Matsue"
+      "label": "松江市"
     },
     {
       "location_code": 9221951,
@@ -9410,12 +9410,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009607,
       "location_name": "Tottori,Tottori,Japan",
-      "label": "Tottori"
+      "label": "鳥取市"
     },
     {
       "location_code": 1009608,
       "location_name": "Yonago,Tottori,Japan",
-      "label": "Yonago"
+      "label": "米子市"
     },
     {
       "location_code": 1009623,
@@ -9502,7 +9502,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009618,
       "location_name": "Matsue,Shimane,Japan",
-      "label": "Matsue"
+      "label": "松江市"
     },
     {
       "location_code": 1009621,
@@ -9574,7 +9574,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009630,
       "location_name": "Kurashiki,Okayama,Japan",
-      "label": "Kurashiki"
+      "label": "倉敷市"
     },
     {
       "location_code": 1009631,
@@ -9599,7 +9599,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009637,
       "location_name": "Okayama,Okayama,Japan",
-      "label": "Okayama"
+      "label": "岡山市"
     },
     {
       "location_code": 1009638,
@@ -9746,12 +9746,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009644,
       "location_name": "Fuchu,Hiroshima,Japan",
-      "label": "Fuchu"
+      "label": "府中市"
     },
     {
       "location_code": 1009645,
       "location_name": "Fukuyama,Hiroshima,Japan",
-      "label": "Fukuyama"
+      "label": "福山市"
     },
     {
       "location_code": 1009646,
@@ -9766,7 +9766,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009648,
       "location_name": "Hiroshima,Hiroshima,Japan",
-      "label": "Hiroshima"
+      "label": "広島市"
     },
     {
       "location_code": 1009650,
@@ -9776,7 +9776,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009652,
       "location_name": "Kure,Hiroshima,Japan",
-      "label": "Kure"
+      "label": "呉市"
     },
     {
       "location_code": 1009653,
@@ -9816,7 +9816,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009660,
       "location_name": "Kitahiroshima,Hiroshima,Japan",
-      "label": "Kitahiroshima"
+      "label": "北広島市"
     },
     {
       "location_code": 1009661,
@@ -9841,7 +9841,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9193411,
       "location_name": "Fuchu,Hiroshima,Japan",
-      "label": "Fuchu"
+      "label": "府中市"
     },
     {
       "location_code": 9193463,
@@ -10058,17 +10058,17 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009673,
       "location_name": "Shimonoseki,Yamaguchi,Japan",
-      "label": "Shimonoseki"
+      "label": "下関市"
     },
     {
       "location_code": 1009677,
       "location_name": "Ube,Yamaguchi,Japan",
-      "label": "Ube"
+      "label": "宇部市"
     },
     {
       "location_code": 1009678,
       "location_name": "Yamaguchi,Yamaguchi,Japan",
-      "label": "Yamaguchi"
+      "label": "山口市"
     },
     {
       "location_code": 1009679,
@@ -10362,7 +10362,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009692,
       "location_name": "Takamatsu,Kagawa,Japan",
-      "label": "Takamatsu"
+      "label": "高松市"
     },
     {
       "location_code": 1009693,
@@ -10469,7 +10469,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009694,
       "location_name": "Imabari,Ehime,Japan",
-      "label": "Imabari"
+      "label": "今治市"
     },
     {
       "location_code": 1009695,
@@ -10484,7 +10484,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009698,
       "location_name": "Matsuyama,Ehime,Japan",
-      "label": "Matsuyama"
+      "label": "松山市"
     },
     {
       "location_code": 1009699,
@@ -10576,12 +10576,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009705,
       "location_name": "Aki,Kochi,Japan",
-      "label": "Aki"
+      "label": "安芸市"
     },
     {
       "location_code": 1009706,
       "location_name": "Kochi,Kochi,Japan",
-      "label": "Kochi"
+      "label": "高知市"
     },
     {
       "location_code": 1009707,
@@ -10678,12 +10678,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009717,
       "location_name": "Fukuoka,Fukuoka,Japan",
-      "label": "Fukuoka"
+      "label": "福岡市"
     },
     {
       "location_code": 1009718,
       "location_name": "Iizuka,Fukuoka,Japan",
-      "label": "Iizuka"
+      "label": "飯塚市"
     },
     {
       "location_code": 1009719,
@@ -10693,7 +10693,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009721,
       "location_name": "Kitakyushu,Fukuoka,Japan",
-      "label": "Kitakyushu"
+      "label": "北九州市"
     },
     {
       "location_code": 1009722,
@@ -10703,7 +10703,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009724,
       "location_name": "Kurume,Fukuoka,Japan",
-      "label": "Kurume"
+      "label": "久留米市"
     },
     {
       "location_code": 1009726,
@@ -10718,7 +10718,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009728,
       "location_name": "Omuta,Fukuoka,Japan",
-      "label": "Omuta"
+      "label": "大牟田市"
     },
     {
       "location_code": 1009729,
@@ -11165,12 +11165,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009736,
       "location_name": "Kashima,Saga,Japan",
-      "label": "Kashima"
+      "label": "鹿嶋市"
     },
     {
       "location_code": 1009737,
       "location_name": "Saga,Saga,Japan",
-      "label": "Saga"
+      "label": "佐賀市"
     },
     {
       "location_code": 1009738,
@@ -11270,7 +11270,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9219883,
       "location_name": "Shiroishi,Saga,Japan",
-      "label": "Shiroishi"
+      "label": "白石市"
     },
     {
       "location_code": 9220373,
@@ -11322,12 +11322,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009745,
       "location_name": "Nagasaki,Nagasaki,Japan",
-      "label": "Nagasaki"
+      "label": "長崎市"
     },
     {
       "location_code": 1009746,
       "location_name": "Sasebo,Nagasaki,Japan",
-      "label": "Sasebo"
+      "label": "佐世保市"
     },
     {
       "location_code": 1009747,
@@ -11434,7 +11434,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009752,
       "location_name": "Kumamoto,Kumamoto,Japan",
-      "label": "Kumamoto"
+      "label": "熊本市"
     },
     {
       "location_code": 1009754,
@@ -11636,7 +11636,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009760,
       "location_name": "Beppu,Oita,Japan",
-      "label": "Beppu"
+      "label": "別府市"
     },
     {
       "location_code": 1009761,
@@ -11768,7 +11768,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009776,
       "location_name": "Miyazaki,Miyazaki,Japan",
-      "label": "Miyazaki"
+      "label": "宮崎市"
     },
     {
       "location_code": 1009777,
@@ -11880,12 +11880,12 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009782,
       "location_name": "Izumi,Kagoshima,Japan",
-      "label": "Izumi"
+      "label": "和泉市"
     },
     {
       "location_code": 1009783,
       "location_name": "Kagoshima,Kagoshima,Japan",
-      "label": "Kagoshima"
+      "label": "鹿児島市"
     },
     {
       "location_code": 1009784,
@@ -12057,7 +12057,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009793,
       "location_name": "Arakawa,Okinawa,Japan",
-      "label": "Arakawa"
+      "label": "荒川区"
     },
     {
       "location_code": 1009795,
@@ -12077,7 +12077,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009798,
       "location_name": "Naha,Okinawa,Japan",
-      "label": "Naha"
+      "label": "那覇市"
     },
     {
       "location_code": 1009799,
@@ -12087,7 +12087,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 1009800,
       "location_name": "Okinawa,Okinawa,Japan",
-      "label": "Okinawa"
+      "label": "沖縄市"
     },
     {
       "location_code": 1009801,
@@ -12117,7 +12117,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9053273,
       "location_name": "Ginowan,Okinawa,Japan",
-      "label": "Ginowan"
+      "label": "宜野湾市"
     },
     {
       "location_code": 9053296,
@@ -12207,7 +12207,7 @@ export const JAPAN_LOCATIONS: Record<string, City[]> = {
     {
       "location_code": 9207102,
       "location_name": "Arakawa,Okinawa,Japan",
-      "label": "Arakawa"
+      "label": "荒川区"
     },
     {
       "location_code": 9210336,
