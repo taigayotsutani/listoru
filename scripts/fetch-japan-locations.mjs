@@ -117,6 +117,13 @@ for (const pref of prefectures) {
 }
 
 const prefectureKeys = Object.keys(JAPAN_LOCATIONS).sort();
+
+// データが空のときに上書きしない（既存の locations.ts を消さない）
+if (prefectureKeys.length === 0) {
+  console.error("都道府県データが0件のため、ファイルを上書きしません。既存の lib/constants/locations.ts を保持します。");
+  process.exit(1);
+}
+
 const out = `/**
  * 都道府県名（DataForSEO の location_name、例: "Tokyo,Japan"）
  */

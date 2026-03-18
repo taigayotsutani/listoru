@@ -20,6 +20,13 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+### 地域データ（市区町村・郵便番号）
+
+検索サイドバーの「都道府県」「市区町村／郵便番号」は `lib/constants/locations.ts` で管理しています。データを更新するには次のいずれかを実行してください。
+
+- **認証不要（推奨）**: `npm run fetch-locations-csv` — DataForSEO の CDN から CSV を取得して生成します。
+- **API 利用**: `.env` に `DATAFORSEO_LOGIN` と `DATAFORSEO_PASSWORD` を設定したうえで `npm run fetch-locations` を実行します。
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
